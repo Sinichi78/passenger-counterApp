@@ -16,6 +16,7 @@ body {
     padding: 5rem;
     text-align: center;
     background-color: rgba(173, 216, 230, 0.47); 
+    border-radius: 1rem;
 }
 
 .buttons{
